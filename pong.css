@@ -1,0 +1,9 @@
+body{
+	background-color: black;
+}
+.righbar{
+	width: 70px;
+	height: 70px;
+	color: white;
+	position: right;
+}
